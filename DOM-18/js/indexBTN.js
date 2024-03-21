@@ -3,6 +3,9 @@
 var btnIniciarSesion = document.getElementById("BTN_IniciarSesion");
 
 btnIniciarSesion.addEventListener("click", function() {
-    // Redirigir a la página de inicio de sesión
+    //redirige a inicio de sesion el Login
     window.location.href = "login.html";
 });
+
+
+
